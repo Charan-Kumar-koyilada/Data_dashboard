@@ -1,2 +1,3 @@
-# HTML
-HTML practice and mini projects — building the basics of the web one page at a time.
+# Full Stack Dashboard
+
+Building a visualised dashboard from the data insights that are being uploaded by the user.
